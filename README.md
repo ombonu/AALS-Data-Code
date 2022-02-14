@@ -1,4 +1,4 @@
-Replication Kit for “Mandatory Retirement and Age, Race, and Gender Diversity of University Faculties” 
+Replication Kit for “Mandatory Retirement and Age, Race, and Gender Diversity of University Faculties” (https://academic.oup.com/aler/article/23/1/100/6270702)
 
 ## Introduction
 
